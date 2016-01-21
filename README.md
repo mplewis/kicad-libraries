@@ -2,6 +2,48 @@
 
 I use these libraries in my personal projects. Use at your own risk.
 
+# Footprints
+
+## Useful Stuff
+
+### Products
+
+[LightBlue Bean+](https://punchthrough.com/bean)
+
+[NodeMCU Amica](http://nodemcu.com/index_en.html#fr_54747661d775ef1a3600009e)
+
+### Manufacturer Parts
+
+[CUI Inc. PJ-037A barrel jack](http://www.digikey.com/product-detail/en/PJ-037A/CP-037A-ND/1644545), vias and slots
+
+[Recom Power R-78E5.0-0.5 5V fixed buck converter](http://www.digikey.com/product-detail/en/R-78E5.0-0.5/945-1648-5-ND/2834904)
+
+[C&K Components JS202011CQN slide switch](http://www.digikey.com/product-detail/en/JS202011CQN/401-2001-ND/1640097)
+
+[TE Connectivity FSM4JSMA 6mm tactile switch](http://www.digikey.com/product-detail/en/FSM4JSMA/450-1129-ND/525821)
+
+### Generic
+
+4-pad solder jumper
+
+SIP-3, numbered: for use with LM7805 in TO-220 form factor
+
+Header Bus: all pins connected together
+
+* 2x4
+* 2x6
+* 2x7
+* 2x8
+
+Header Strip: signals are independent with multiple pins bussed together
+
+* 15x4 (15 individual signals, 4 pins each)
+
+## Artwork
+
+* [Goat](http://imgur.com/SQCLV0f) (copper, mask)
+* [Nyan Pusheen](http://imgur.com/v2rxmgp) tri-color! (silk, copper, mask)
+
 # Design Guidelines
 
 *Reminders to myself when designing PCBs with KiCad*
