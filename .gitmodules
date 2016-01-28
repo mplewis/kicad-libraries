@@ -1,3 +1,6 @@
 [submodule "kicadlibrary"]
 	path = kicadlibrary
 	url = https://github.com/open-project/kicadlibrary.git
+[submodule "esp8266"]
+	path = esp8266
+	url = https://github.com/jdunmire/kicad-ESP8266
