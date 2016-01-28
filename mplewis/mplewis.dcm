@@ -11,4 +11,8 @@ D DC Barrel Jack
 K DC power barrel jack connector
 $ENDCMP
 #
+$CMP USB_C_AMPHENOL_12401548E4#2A
+D Amphenol Commercial Products 12401548E4#2A http://www.digikey.com/product-detail/en/12401548E4%232A/12401548E4%232ACT-ND/5318160
+$ENDCMP
+#
 #End Doc Library
