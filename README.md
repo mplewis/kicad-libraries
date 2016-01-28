@@ -22,6 +22,8 @@ I use these libraries in my personal projects. Use at your own risk.
 
 [TE Connectivity FSM4JSMA 6mm tactile switch](http://www.digikey.com/product-detail/en/FSM4JSMA/450-1129-ND/525821)
 
+[Amphenol Commercial Products 12401548E4#2A USB-C receptacle, TH/SMT, RA](http://www.digikey.com/product-detail/en/12401548E4%232A/12401548E4%232ACT-ND/5318160)
+
 ### Generic
 
 4-pad solder jumper
