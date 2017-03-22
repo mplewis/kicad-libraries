@@ -11,6 +11,10 @@ D DC Barrel Jack
 K DC power barrel jack connector
 $ENDCMP
 #
+$CMP DS3231M_SOIC8
+D Maxim Integrated DS3231MZ/V+ RTC SOIC-8 http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=222649841&uq=636256503354057719
+$ENDCMP
+#
 $CMP USB_C_AMPHENOL_12401548E4#2A
 D Amphenol Commercial Products 12401548E4#2A http://www.digikey.com/product-detail/en/12401548E4%232A/12401548E4%232ACT-ND/5318160
 $ENDCMP
