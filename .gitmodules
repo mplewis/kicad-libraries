@@ -4,3 +4,6 @@
 [submodule "esp8266"]
 	path = esp8266
 	url = https://github.com/jdunmire/kicad-ESP8266
+[submodule "wickerlib"]
+	path = wickerlib
+	url = git@github.com:wickerbox/wickerlib.git
