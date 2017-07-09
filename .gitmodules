@@ -7,3 +7,9 @@
 [submodule "wickerlib"]
 	path = wickerlib
 	url = git@github.com:wickerbox/wickerlib.git
+[submodule "kylemanna"]
+	path = kylemanna
+	url = git@github.com:kylemanna/kicad-library.git
+[submodule "mcous"]
+	path = mcous
+	url = https://github.com/mcous/kicad-lib
